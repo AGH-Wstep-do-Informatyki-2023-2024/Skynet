@@ -3,17 +3,40 @@
 ![Logo](images/logo.jpeg)
 
 ## Description
+
 A game inspired by Chrome Dino.
 
 ## Usage
+
 ```python
 print("ROARRRRRR!!!!!")
 ```
 
+## Tech stack
+
+<details><summary>Main programming language</summary>
+<p
+
+```python
+print("It will be Python!")
+```
+
+</p>
+</details>
+
+<details><summary>Frameworks and libraries</summary>
+<p
+
+```python
+print("We will find out as we go.")
+```
+
+</p>
+</details>
+
 ## Authors
-* 👩 Karolina Kaczmarczyk
-* 👦 Bartłomiej Nałódka
-* 👦 Bartosz Karpiel
-* 👦 Piotr Skoczylas
 
-
+- 👩 Karolina Kaczmarczyk
+- 👦 Bartłomiej Nałódka
+- 👦 Bartosz Karpiel
+- 👦 Piotr Skoczylas
