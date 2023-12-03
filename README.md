@@ -9,3 +9,11 @@ A game inspired by Chrome Dino.
 ```python
 print("ROARRRRRR!!!!!")
 ```
+
+##Authors
+👩 Karolina Kaczmarczyk
+👦 Bartłomiej Nałódka
+👦 Bartosz Karpiel
+👦 Piotr Skoczylas
+
+
