@@ -10,7 +10,7 @@ A game inspired by Chrome Dino.
 print("ROARRRRRR!!!!!")
 ```
 
-##Authors
+## Authors
 👩 Karolina Kaczmarczyk
 👦 Bartłomiej Nałódka
 👦 Bartosz Karpiel
