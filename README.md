@@ -11,9 +11,9 @@ print("ROARRRRRR!!!!!")
 ```
 
 ## Authors
-*👩 Karolina Kaczmarczyk
-*👦 Bartłomiej Nałódka
-*👦 Bartosz Karpiel
-*👦 Piotr Skoczylas
+* 👩 Karolina Kaczmarczyk
+* 👦 Bartłomiej Nałódka
+* 👦 Bartosz Karpiel
+* 👦 Piotr Skoczylas
 
 
