@@ -40,3 +40,6 @@ print("We will find out as we go.")
 - 👦 Bartłomiej Nałódka
 - 👦 Bartosz Karpiel
 - 👦 Piotr Skoczylas
+
+
+konflikt1
