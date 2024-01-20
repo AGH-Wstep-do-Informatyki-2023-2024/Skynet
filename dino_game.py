@@ -9,13 +9,13 @@ SCREEN = pygame.display.set_mode((1100, 600))
 # IMAGES
 
 # running
-RUNNING = [pygame.image.load(os.path.join("images", "Dino2.png")),
-           pygame.image.load(os.path.join("images", "Dino3.png"))]
-JUMPING = pygame.image.load(os.path.join("images", "Dino4.png"))
-DUCKING = pygame.image.load(os.path.join("images", "Dino1.png"))
+RUNNING = [pygame.image.load(os.path.join("images", "Dino1.png")),
+           pygame.image.load(os.path.join("images", "Dino2.png"))]
+JUMPING = pygame.image.load(os.path.join("images", "Dino3.png"))
+DUCKING = pygame.image.load(os.path.join("images", "Dino4.png"))
 
 class Dinosaur:
-    X_POS = 80
+    X_POS = 8000
     Y_POS = 310
     Y_POS_DUCK = 330
     JUMP_VEL = 8.5
