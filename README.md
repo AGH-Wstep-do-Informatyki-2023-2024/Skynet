@@ -36,7 +36,7 @@ print("We will find out as we go.")
 
 ## Authors
 
-- 👦 Bartosz Karpiel
 - 👩 Karolina Kaczmarczyk
 - 👦 Bartłomiej Nałódka
+- 👦 Bartosz Karpiel
 - 👦 Piotr Skoczylas
