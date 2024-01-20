@@ -28,7 +28,7 @@ print("It will be Python!")
 <p
 
 ```python
-print("We will find out as we go!!!")
+print("We will find out as we go!")
 ```
 
 </p>
